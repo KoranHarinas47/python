@@ -50,4 +50,4 @@ while next == True:
         print("Hey you sure about the number")
 
 
-    next = true if input("\n Shall we do it again? (Y/N) ") == "Y" else False 
+    next == true if input("\n Shall we do it again? (Y/N) ") == "Y" else False 
